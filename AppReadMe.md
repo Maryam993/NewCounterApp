@@ -12,7 +12,7 @@ returning the export function
 starting View in which we we have some screen Layout
 
 Flex = 1
-seting the margin area on the bottom of an element
+setting the margin area on the bottom of an element
 align the child content in centre
 background color is pink
 item will be shown in center
